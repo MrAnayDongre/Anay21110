@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anay Dongre</h1>
-<h3 align="center">Your friendly neighborhood Developer !</h3>
+<h3>An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.</h3> 
 <br>
-<p align = "center">I'm a final year undergraduate student specializing in Information Technology.
+<p>I'm a final year undergraduate student specializing in Information Technology.
 In my free time I do Competitive Programming and my research interests include <b>Distributed Computing, Cryptography and Artificial Intelligence<b>.
 </p>
 
-- 🤝 I’m looking for help with **Deployments of ML models**
+- 🤝 I’m looking to collaborate on **Kaggle Competitions and Research Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@dongreanay](https://medium.com/@dongreanay)
+- 📝 I regularly write articles on [Medium](https://medium.com/@dongreanay)
+  
+- 📫 You can reach me at **dongreanay@gmail.com**
 
-- 📫 How to reach me **dongreanay@gmail.com**
+- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1RdKtWk-3lT7DBnqKXaIb9dAr7_VoETgi/view?usp=sharing)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RdKtWk-3lT7DBnqKXaIb9dAr7_VoETgi/view?usp=sharing](https://drive.google.com/file/d/1RdKtWk-3lT7DBnqKXaIb9dAr7_VoETgi/view?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+### Research Publication
+[Deep transfer learning for computer vision](https://www.researchgate.net/publication/363248731_Deep_transfer_learning_for_computer_vision_A_survey)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
