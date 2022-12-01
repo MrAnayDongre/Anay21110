@@ -11,7 +11,7 @@ In my free time I do Competitive Programming and my research interests include <
   
 - 📫 You can reach me at **dongreanay@gmail.com**
 
-- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1RdKtWk-3lT7DBnqKXaIb9dAr7_VoETgi/view?usp=sharing)
+- 📄 Checkout my [RESUME](https://drive.google.com/file/d/1wHN70l-no9O1YVYflXqZqgrtWLlqwEO_/view?usp=sharing)
 
 ### Research Publication
 [Deep transfer learning for computer vision](https://www.researchgate.net/publication/363248731_Deep_transfer_learning_for_computer_vision_A_survey)
