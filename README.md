@@ -14,7 +14,9 @@ In my free time I do Competitive Programming and my research interests include <
 - 📄 Checkout my [RESUME](https://drive.google.com/file/d/1BCyF6kDNByC7VX2zpIfrR-CRVdUrR9QZ/view?usp=sharing)
 
 ### Research Publication
-[Deep transfer learning for computer vision](https://www.researchgate.net/publication/363248731_Deep_transfer_learning_for_computer_vision_A_survey)
+1. [Deep transfer learning for computer vision](https://www.researchgate.net/publication/363248731_Deep_transfer_learning_for_computer_vision_A_survey)
+  
+2. [Neural Radiance Fields-Comprehensive Survey](https://drive.google.com/drive/u/0/recent)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
